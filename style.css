@@ -1,1 +1,6 @@
- #post-title{color:#fff000;}
+html, body{font-family: Georgia, Baskerville, Times, serif;
+font-size:24px;
+padding: 0px;
+margin:0px;
+}
+#post-title{color:#fff000;}
